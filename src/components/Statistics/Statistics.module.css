@@ -1,0 +1,12 @@
+.Statistics {
+  line-height: 1.02;
+  padding: 0;
+}
+
+.ListItem {
+  list-style: none;
+}
+
+.ListItem:not(:last-child) {
+  margin-bottom: 10px;
+}
